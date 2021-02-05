@@ -2,3 +2,5 @@ Bayu Resolusi
 1. Konsisten dalam bekerja
 2. Konsisten dalam belajar programming
 3. Menempuh S2
+4. Membuat website sendiri dengan laravel
+5. Pelatihan jaringan
